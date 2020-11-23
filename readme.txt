@@ -6,4 +6,4 @@ git is a free software
 stash working directory
 stash 2
 test cherry pick
-
+pycharm test
